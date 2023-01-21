@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(16, 33, 46);
+}
+button{
+    
+    background-color: rgb(39, 46, 43);
+    color: rgb(238, 241, 240);
+}
+button:hover{
+    color: rgb(17, 16, 16);
+    background-color: rgb(222, 232, 227);
+}
+h1{
+    color: white ;
+    text-align: center;
+    margin-bottom: 5%;
+}
+h2{
+    color: rgb(156, 249, 206);
+}
+h3{
+    color: rgb(250, 253, 252);
+}
+#playerName{
+    color: azure;
+    background-color: rgb(12, 43, 42);
+}
+#blr{
+    
+    filter: brightness(50%);
+    
+
+}
